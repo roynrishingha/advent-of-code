@@ -1,0 +1,15 @@
+[workspace]
+
+resolver = "2"
+
+members = [
+    "y2022",
+]
+
+[package]
+name = "advent_of_code"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
